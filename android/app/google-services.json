@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583894475004",
+    "project_id": "baianat-37302",
+    "storage_bucket": "baianat-37302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583894475004:android:dc1647fc76b91aeceeb779",
+        "android_client_info": {
+          "package_name": "com.example.baianat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583894475004-n0lk378128lm7hdpfpkctt6oq6ah94cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA4rRA9U9udiTXinQ0WFJc-Bq5vDu1If8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583894475004-n0lk378128lm7hdpfpkctt6oq6ah94cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
